@@ -1,2 +1,2 @@
 # php-path-lister
-list files with using php
+list files and directories with using php
